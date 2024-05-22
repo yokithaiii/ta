@@ -16,6 +16,7 @@
     "@tonconnect/ui": "^2.0.2",
     "@vue/apollo-composable": "^4.0.2",
     "axios": "^1.7.1",
+    "flowbite": "^2.3.0",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "primevue": "^3.52.0",
